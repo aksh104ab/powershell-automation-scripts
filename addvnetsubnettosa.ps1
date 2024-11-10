@@ -1,3 +1,4 @@
+#script to include vnet and subnet on sa
 # Define the parameters
 $ResourceGroupName = "txbackbonehosta-rg"
 $StorageAccountName = "tsfssafar401"
