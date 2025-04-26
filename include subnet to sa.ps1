@@ -8,7 +8,7 @@ function Set-StorageAccountSubnetAccess {
         [parameter(Mandatory)]
         [string] $VNetResourceGroup,
         [parameter(Mandatory)]
-        [string] $VNetName,
+        [string] $VNetName,git
         [parameter(Mandatory)]
         [string] $SubnetName
     )
